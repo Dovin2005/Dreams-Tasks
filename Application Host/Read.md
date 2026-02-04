@@ -209,6 +209,7 @@ php artisan view:clear
 php artisan storage:link
 
 sudo systemctl restart apache2
+
 🚀 12. Open Application
 Visit:
 
